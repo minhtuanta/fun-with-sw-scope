@@ -1,0 +1,25 @@
+{
+  "name": "fun-with-sw-scope",
+  "version": "1.0.0",
+  "description": "A fun experiment with Service Worker scope.",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhtuanta/fun-with-sw-scope.git"
+  },
+  "keywords": [
+    "sw",
+    "experiment"
+  ],
+  "author": "Minh-Tuan (Terry)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhtuanta/fun-with-sw-scope/issues"
+  },
+  "homepage": "https://github.com/minhtuanta/fun-with-sw-scope#readme",
+  "devDependencies": {
+    "serve": "^6.4.8"
+  }
+}
